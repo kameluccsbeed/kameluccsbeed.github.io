@@ -1,0 +1,1 @@
+Hero slider और full-screen clickable image lightbox fixed. पूरे folder को Netlify पर deploy करें.
